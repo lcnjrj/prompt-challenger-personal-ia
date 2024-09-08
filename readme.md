@@ -121,3 +121,13 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+Sou um(a) [escreva seu biotipo: ectomorfo, mesomorfo ou endomorfo].
+
+Tenho [escreva a quantidade] dias disponíveis para treinar por semana.
+
+Prefiro treinar com [escreva o tipo de exercício: funcional, maquinário, peso livre, cardio, HIIT ou uma combinação].
+
+Gostaria de um treino [escreva seu objetivo: hipertrofia, definição muscular, emagrecimento, força, resistência, aumentar capacidade cardiorepiratória, etc.].
+
+Por favor, me dê um plano de treino detalhado com os exercícios, séries, repetições e tempo de descanso.
+
